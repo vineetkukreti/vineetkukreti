@@ -19,7 +19,6 @@ AI Engineer with **2 years** building production-grade healthcare AI at **Southg
 
 - **3 patents** in AI/ML from undergraduate research
 - **2 IEEE research papers** on Artificial Intelligence and Machine Learning
-- **PMSS Scholar** (Prime Minister's Scholarship Scheme)
 - B.Tech (Hons.) CSE · ML & AI specialisation · **8.5 CGPA** — Graphic Era University
 
 ---
