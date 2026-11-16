@@ -5,7 +5,7 @@
 **AI Engineer · Healthcare AI · Knowledge Graphs · LLM Systems**
 
 [![Website](https://img.shields.io/badge/vineetkukreti.in-000000?style=flat&logo=safari&logoColor=white)](https://www.vineetkukreti.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetkukreti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vineetkukretii)
 [![Email](https://img.shields.io/badge/vineetkukreti34@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vineetkukreti34@gmail.com)
 [![Location](https://img.shields.io/badge/Bengaluru,_India-FF6B35?style=flat&logo=googlemaps&logoColor=white)](#)
 
