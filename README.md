@@ -53,6 +53,32 @@ AI Engineer with **2 years** building production-grade healthcare AI at **Southg
 | [**dsa-tracker**](https://github.com/vineetkukreti/dsa-tracker) | AI-powered DSA interview prep tracker — React 19 + FastAPI + SQLite |
 | [**sharepoint-rag**](https://github.com/vineetkukreti/sharepoint-rag) | RAG pipeline over SharePoint knowledge bases |
 | [**Rajniti**](https://github.com/vineetkukreti/Rajniti) | Know who your vote goes to — political transparency tool for India |
+| [**coolkit**](https://github.com/vineetkukreti/coolkit) | AI career/outreach toolkit with pluggable cloud LLMs (NVIDIA, Gemini) |
+
+**Healthcare & Biomedical Research**
+
+| Project | What it does |
+|---------|-------------|
+| [**healthcare-research-portfolio**](https://github.com/vineetkukreti/healthcare-research-portfolio) | Research portfolio + evaluation framework, incl. an exploratory TCGA cancer-subtype discovery pipeline |
+| [**healthcare-and-life-sciences-projects**](https://github.com/vineetkukreti/healthcare-and-life-sciences-projects) | Reference architectures for 14 healthcare AI platforms, plus a Fitterfly-style MVP (FastAPI + React) |
+| [**clinical-scores**](https://github.com/vineetkukreti/clinical-scores) | FastAPI service for CURB-65, qSOFA and BMI (educational demo) |
+| [**drug-discovery-notes**](https://github.com/vineetkukreti/drug-discovery-notes) | Notes on drug-discovery opportunities and landscape |
+
+**RAG & LLM Apps**
+
+| Project | What it does |
+|---------|-------------|
+| [**pinecone-rag-application**](https://github.com/vineetkukreti/pinecone-rag-application) | Document RAG with Pinecone, OpenAI and Cohere reranking |
+| [**llamaindex-rag-app**](https://github.com/vineetkukreti/llamaindex-rag-app) | Document Q&A app built on LlamaIndex |
+
+**Web & Games**
+
+| Project | What it does |
+|---------|-------------|
+| [**kidcart**](https://github.com/vineetkukreti/kidcart) | Kids' e-commerce platform — .NET 8 backend, Docker, CI |
+| [**japan-tours-website**](https://github.com/vineetkukreti/japan-tours-website) | Next.js 14 travel landing page |
+| [**skyrift-unity**](https://github.com/vineetkukreti/skyrift-unity) | Unity 6 (HDRP) flight game in development |
+| [**plane-simulation-game**](https://github.com/vineetkukreti/plane-simulation-game) | Browser flight simulator built with Three.js |
 
 ---
 
@@ -70,6 +96,17 @@ Frontend         React 19 · Vite · TailwindCSS · Zustand · React Query
 
 Domains          Healthcare AI · Dermatopathology · Oncology · Biomedical Data
 ```
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vineetkukreti&show_icons=true&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetkukreti&layout=compact&hide_border=true" />
+
+</div>
 
 ---
 
